@@ -7,8 +7,8 @@ This is a document-based chatbot that leverages Retrieval-Augmented Generation (
 
 
 ## 🤖 Models Used
-Language Model: **Qwen/Qwen2.5-7B-Instruct** - A 7 billion parameter instruction-tuned language model for generating contextual responses
-Embedding Model: **all-MiniLM-L6-v2** - A lightweight sentence transformer for encoding documents and queries into semantic vectors
+Language Model: **Qwen/Qwen2.5-7B-Instruct** - A 7 billion parameter instruction-tuned language model for generating contextual responses<br>
+Embedding Model: **all-MiniLM-L6-v2** - A lightweight sentence transformer for encoding documents and queries into semantic vectors<br>
 Vision Model: **nlpconnect/vit-gpt2-image-captioning** - A Vision Transformer + GPT-2 model for generating text descriptions of images extracted from PDFs
 
 ## 🏗️ Architecture
